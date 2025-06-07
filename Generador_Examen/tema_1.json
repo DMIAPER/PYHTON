@@ -1,0 +1,331 @@
+[
+    {
+        "Pregunta": "¿Quién creó Python y en qué año?",
+        "A": "Dennis Ritchie, 1972",
+        "B": "Guido van Rossum, 1991",
+        "C": "James Gosling, 1995",
+        "D": "Bjarne Stroustrup, 1983",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué significa PEP-8?",
+        "A": "Una herramienta para depurar código",
+        "B": "Un sistema de control de versiones",
+        "C": "Una guía de estilo para escribir código Python",
+        "D": "Un intérprete alternativo",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál es una característica de Python?",
+        "A": "Lenguaje compilado estrictamente",
+        "B": "Sintaxis compleja",
+        "C": "Tipado estático",
+        "D": "Sintaxis simple y legible",
+        "Respuesta Correcta": "D"
+    },
+    {
+        "Pregunta": "¿Cuál de estos no es un ámbito de uso típico de Python?",
+        "A": "Aplicaciones web",
+        "B": "Desarrollo de videojuegos",
+        "C": "Administración de redes sociales",
+        "D": "Ciencia de datos",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué herramienta permite crear entornos virtuales y manejar librerías en ciencia de datos?",
+        "A": "VS Code",
+        "B": "Jupyter Notebook",
+        "C": "Anaconda",
+        "D": "PyCharm",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál es el nombre del documento que define las buenas prácticas en Python?",
+        "A": "RFC-2616",
+        "B": "ISO-9001",
+        "C": "PEP-8",
+        "D": "IEEE-754",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál de estas opciones representa una implementación de Python?",
+        "A": "PyScript",
+        "B": "IronPython",
+        "C": "Pygame",
+        "D": "IDLE",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué editor es recomendado para trabajar con Python?",
+        "A": "Notepad",
+        "B": "Paint",
+        "C": "Visual Studio Code",
+        "D": "Excel",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál es el rol principal del intérprete de Python?",
+        "A": "Compilar programas C++",
+        "B": "Traducir código Python línea a línea",
+        "C": "Modificar archivos de configuración",
+        "D": "Crear interfaces gráficas",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Cuál de estas distribuciones es más utilizada para ciencia de datos?",
+        "A": "Miniconda",
+        "B": "PyDev",
+        "C": "Anaconda",
+        "D": "PyInstaller",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "Python es un lenguaje:",
+        "A": "Compilado y tipado estáticamente",
+        "B": "Interpretado y tipado dinámicamente",
+        "C": "Basado en ensamblador",
+        "D": "Puramente funcional",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué característica destaca de Python en inteligencia artificial?",
+        "A": "Alta velocidad de ejecución",
+        "B": "Bajo consumo de memoria",
+        "C": "Gran ecosistema de librerías",
+        "D": "Integración con HTML",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál de los siguientes tipos de programas puede hacerse con Python?",
+        "A": "Aplicaciones científicas",
+        "B": "Juegos",
+        "C": "Sistemas web",
+        "D": "Todas las anteriores",
+        "Respuesta Correcta": "D"
+    },
+    {
+        "Pregunta": "¿Qué permite la guía PEP-8?",
+        "A": "Corregir errores automáticamente",
+        "B": "Establecer estilo uniforme de código",
+        "C": "Compilar proyectos en C",
+        "D": "Reducir el tamaño del código",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué es PyPI?",
+        "A": "Un intérprete de Python",
+        "B": "Una guía de estilo",
+        "C": "El repositorio oficial de paquetes de Python",
+        "D": "Un entorno de desarrollo",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué es una característica de Python que lo hace multiplataforma?",
+        "A": "Su diseño modular",
+        "B": "Uso de Java",
+        "C": "Soporte para PHP",
+        "D": "Puede ejecutarse en distintos sistemas operativos",
+        "Respuesta Correcta": "D"
+    },
+    {
+        "Pregunta": "¿Cuál de los siguientes entornos es un notebook interactivo?",
+        "A": "Sublime Text",
+        "B": "Atom",
+        "C": "Jupyter",
+        "D": "NetBeans",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué parte del sistema ejecuta código Python línea por línea?",
+        "A": "El compilador",
+        "B": "El intérprete",
+        "C": "El sistema operativo",
+        "D": "El navegador",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué componente se encarga de liberar memoria automáticamente en Python?",
+        "A": "PEP-8",
+        "B": "El intérprete",
+        "C": "El recolector de basura",
+        "D": "El IDE",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué tipo de paradigma permite Python?",
+        "A": "Solo funcional",
+        "B": "Solo orientado a objetos",
+        "C": "Multiparadigma",
+        "D": "Declarativo exclusivamente",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué herramienta permite ejecutar código Python desde un navegador?",
+        "A": "IDLE",
+        "B": "VS Code",
+        "C": "Jupyter Notebook",
+        "D": "PEP-8",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué hace que Python sea adecuado para principiantes?",
+        "A": "Usa punteros como C",
+        "B": "Requiere compilación compleja",
+        "C": "Tiene una sintaxis clara y sencilla",
+        "D": "No tiene documentación",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué empresa utiliza Python extensivamente en su infraestructura?",
+        "A": "McDonald's",
+        "B": "Google",
+        "C": "Spotify",
+        "D": "Ambas B y C",
+        "Respuesta Correcta": "D"
+    },
+    {
+        "Pregunta": "¿Qué extensión de archivo se usa para scripts de Python?",
+        "A": ".java",
+        "B": ".py",
+        "C": ".exe",
+        "D": ".cpp",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Cuál es un beneficio clave de Python en ciencia de datos?",
+        "A": "Alta concurrencia",
+        "B": "Soporte de gráficos 3D",
+        "C": "Librerías como NumPy y Pandas",
+        "D": "Desarrollo de videojuegos",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué librería se usa comúnmente para visualización de datos en Python?",
+        "A": "TensorFlow",
+        "B": "Matplotlib",
+        "C": "Requests",
+        "D": "Flask",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué significa que Python sea un lenguaje interpretado?",
+        "A": "Se compila en tiempo de ejecución",
+        "B": "Se ejecuta línea a línea sin compilar previamente",
+        "C": "Solo funciona con Java",
+        "D": "No puede ser usado en servidores",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué elemento no forma parte del ecosistema Python?",
+        "A": "Pandas",
+        "B": "NumPy",
+        "C": "React",
+        "D": "Flask",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál de los siguientes no es un tipo de dato en Python?",
+        "A": "List",
+        "B": "Integer",
+        "C": "Character",
+        "D": "Tuple",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cómo se comenta una línea en Python?",
+        "A": "/* comentario */",
+        "B": "// comentario",
+        "C": "# comentario",
+        "D": "<!-- comentario -->",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué comando inicia el intérprete interactivo de Python?",
+        "A": "python",
+        "B": "run",
+        "C": "compile",
+        "D": "execute",
+        "Respuesta Correcta": "A"
+    },
+    {
+        "Pregunta": "¿Cuál es la principal web para consultar documentación oficial de Python?",
+        "A": "python.org",
+        "B": "docs.io",
+        "C": "stackoverflow.com",
+        "D": "pypi.org",
+        "Respuesta Correcta": "A"
+    },
+    {
+        "Pregunta": "¿Qué estructura permite almacenar una colección ordenada y mutable?",
+        "A": "Tuple",
+        "B": "List",
+        "C": "Set",
+        "D": "Dictionary",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué comando permite instalar paquetes externos en Python?",
+        "A": "get",
+        "B": "install",
+        "C": "pip install",
+        "D": "python install",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué librería se usa para manejar arrays y matrices?",
+        "A": "Tkinter",
+        "B": "NumPy",
+        "C": "Flask",
+        "D": "Plotly",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Cuál de estas afirmaciones es verdadera?",
+        "A": "Python no puede trabajar con bases de datos",
+        "B": "Python no tiene soporte para programación orientada a objetos",
+        "C": "Python tiene un recolector de basura automático",
+        "D": "Python no permite programación funcional",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué comando muestra la versión de Python instalada?",
+        "A": "python -v",
+        "B": "python version",
+        "C": "python3 --version",
+        "D": "pyversion",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué tipo de licencia tiene Python?",
+        "A": "Privativa",
+        "B": "MIT",
+        "C": "GPL",
+        "D": "Licencia de código abierto (PSF)",
+        "Respuesta Correcta": "D"
+    },
+    {
+        "Pregunta": "¿Quién mantiene actualmente Python?",
+        "A": "La Universidad de Ámsterdam",
+        "B": "Python Software Foundation",
+        "C": "Google",
+        "D": "Apache Foundation",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué comando se usa para ejecutar un script llamado script.py?",
+        "A": "run script.py",
+        "B": "exec script.py",
+        "C": "python script.py",
+        "D": "script.py",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué versión de Python es la más utilizada hoy día para desarrollo?",
+        "A": "2.7",
+        "B": "3.x",
+        "C": "4.0",
+        "D": "5.0",
+        "Respuesta Correcta": "B"
+    }
+
+]

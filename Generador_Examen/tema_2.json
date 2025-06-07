@@ -1,0 +1,323 @@
+[
+
+    {
+        "Pregunta": "¿Qué operador se utiliza para asignaciones simples en Python?",
+        "A": "==",
+        "B": ":=",
+        "C": "=",
+        "D": "::",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál es el resultado de la asignación múltiple: a, b = 1, 2?",
+        "A": "a = 2, b = 1",
+        "B": "a = 1, b = 2",
+        "C": "Error",
+        "D": "a = b = 1, 2",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué hace la asignación slicing con a, *b, c = [1, 2, 3, 4]?",
+        "A": "a=1, b=[2, 3], c=4",
+        "B": "a=[1], b=2, c=[3,4]",
+        "C": "Error de sintaxis",
+        "D": "a=1, b=[2], c=3",
+        "Respuesta Correcta": "A"
+    },
+    {
+        "Pregunta": "¿Qué estructura se usa en Python para control condicional?",
+        "A": "switch",
+        "B": "match",
+        "C": "if, elif, else",
+        "D": "case",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué valor se evalúa como False en un if?",
+        "A": "0",
+        "B": "[]",
+        "C": "None",
+        "D": "Todas las anteriores",
+        "Respuesta Correcta": "D"
+    },
+    {
+        "Pregunta": "¿Cuál es la alternativa en Python al switch-case?",
+        "A": "while",
+        "B": "lambda",
+        "C": "if-elif-else",
+        "D": "loop",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué operador se usa en una sentencia if ternaria?",
+        "A": "->",
+        "B": "::",
+        "C": "if-else",
+        "D": "? :",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál es la sintaxis de una sentencia if ternaria?",
+        "A": "condición ? valor1 : valor2",
+        "B": "valor1 if condición else valor2",
+        "C": "valor1 else condición if valor2",
+        "D": "condición if valor1 else valor2",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Cuál es el propósito del bucle while?",
+        "A": "Iterar sobre elementos conocidos",
+        "B": "Iterar mientras una condición sea True",
+        "C": "Ejecutar código en paralelo",
+        "D": "Lanzar excepciones",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Cuándo se usa un bucle for?",
+        "A": "Cuando no conocemos el número de iteraciones",
+        "B": "Para ejecutar hasta que una condición sea False",
+        "C": "Para iterar sobre una secuencia",
+        "D": "Nunca",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué hace la sentencia break?",
+        "A": "Sale del programa",
+        "B": "Rompe la CPU",
+        "C": "Termina el bucle actual",
+        "D": "Salta a la siguiente iteración",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué hace la sentencia continue?",
+        "A": "Finaliza el programa",
+        "B": "Reinicia el bucle desde el inicio",
+        "C": "Salta a la siguiente iteración del bucle",
+        "D": "Termina el bucle",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué operador permite asignación dentro de una expresión?",
+        "A": "=",
+        "B": "==",
+        "C": ":=",
+        "D": "::=",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué nombre recibe el operador ':='?",
+        "A": "Operador de igualdad",
+        "B": "Operador Walrus",
+        "C": "Operador ternario",
+        "D": "Operador condicional",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué ventaja tiene el operador walrus?",
+        "A": "Evita definir funciones",
+        "B": "Mejora el rendimiento de compilación",
+        "C": "Evita repetir cálculos en expresiones",
+        "D": "No tiene ninguna ventaja",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál es el resultado de 'x = y = 5'?",
+        "A": "x = 5, y no definido",
+        "B": "x = y = 5",
+        "C": "Error de sintaxis",
+        "D": "x = 0, y = 5",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Cuál es el resultado de a, b = b, a?",
+        "A": "Intercambia los valores de a y b",
+        "B": "Los iguala a cero",
+        "C": "Error de ejecución",
+        "D": "a y b toman el mismo valor",
+        "Respuesta Correcta": "A"
+    },
+    {
+        "Pregunta": "¿Qué pasa si usas más variables que valores en una asignación múltiple?",
+        "A": "Python las rellena con None",
+        "B": "Se produce un error",
+        "C": "Los valores se repiten",
+        "D": "El programa continúa",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Para qué se usa el operador * en una asignación?",
+        "A": "Multiplicar",
+        "B": "Agrupar valores intermedios en una lista",
+        "C": "Saltar variables",
+        "D": "Asignar un valor por defecto",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué imprime el siguiente código?\nfor i in range(3): print(i)",
+        "A": "1 2 3",
+        "B": "0 1 2",
+        "C": "0 1 2 3",
+        "D": "Error",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué estructura permite evaluar varias condiciones en cadena?",
+        "A": "if",
+        "B": "if-else",
+        "C": "if-elif-else",
+        "D": "try-except",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál es la principal diferencia entre while y for?",
+        "A": "while requiere un iterable",
+        "B": "for no puede ejecutarse sin condición",
+        "C": "while depende de condición lógica, for de secuencia",
+        "D": "Ninguna",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál es la sintaxis de un bucle for en Python?",
+        "A": "for (i=0; i<10; i++)",
+        "B": "for i in range(10):",
+        "C": "loop i=1 to 10",
+        "D": "while i < 10:",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué produce este código?\nwhile False:\n    print('Hola')",
+        "A": "Imprime Hola una vez",
+        "B": "Imprime Hola infinitamente",
+        "C": "No imprime nada",
+        "D": "Error",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál es el propósito del uso de range()?",
+        "A": "Iterar sobre diccionarios",
+        "B": "Generar una secuencia de números",
+        "C": "Definir funciones",
+        "D": "Controlar excepciones",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Cuál es una forma válida de usar el operador walrus?",
+        "A": "if x := len(lista) > 3:",
+        "B": "x := 5 if x > 3",
+        "C": "for x := range(5)",
+        "D": "x ==: 4",
+        "Respuesta Correcta": "A"
+    },
+    {
+        "Pregunta": "¿Qué hace el siguiente código?\nfor x in [1, 2, 3]:\n    if x == 2:\n        break\n    print(x)",
+        "A": "Imprime 1 2 3",
+        "B": "Imprime 1",
+        "C": "Imprime 2 3",
+        "D": "No imprime nada",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué hace el siguiente código?\nfor x in [1, 2, 3]:\n    if x == 2:\n        continue\n    print(x)",
+        "A": "Imprime 1 2 3",
+        "B": "Imprime 1 3",
+        "C": "Imprime 2",
+        "D": "No imprime nada",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿En qué caso usarías if ternario?",
+        "A": "Cuando no quieres usar bucles",
+        "B": "Para reducir líneas de código en condiciones simples",
+        "C": "Para crear funciones",
+        "D": "Para manejar errores",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Cuál es una desventaja del operador walrus?",
+        "A": "No es compatible con Python 3.8 o anteriores",
+        "B": "Es más lento que =",
+        "C": "Genera errores en bucles",
+        "D": "No puede usarse con funciones",
+        "Respuesta Correcta": "A"
+    },
+    {
+        "Pregunta": "¿Qué resultado tiene x = 5; if x: print('Sí')?",
+        "A": "Sí",
+        "B": "Error",
+        "C": "Nada",
+        "D": "None",
+        "Respuesta Correcta": "A"
+    },
+    {
+        "Pregunta": "¿Cuál de las siguientes condiciones se evalúa como False?",
+        "A": "'False'",
+        "B": "0.0",
+        "C": "[1, 2]",
+        "D": "{1:2}",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Cuál es la estructura básica de if-elif-else?",
+        "A": "if -> else if -> else",
+        "B": "if -> elseif -> else",
+        "C": "if -> elif -> else",
+        "D": "if -> or -> else",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué imprime?\na, b = 1, 2; a, b = b, a; print(a, b)",
+        "A": "1 2",
+        "B": "2 1",
+        "C": "Error",
+        "D": "0 0",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué función cumple el else tras un bucle?",
+        "A": "Se ejecuta solo si el bucle terminó por break",
+        "B": "Se ejecuta siempre",
+        "C": "Se ejecuta si el bucle no terminó por break",
+        "D": "No es válido",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué tipo de bucle sería mejor si se desconoce el número de iteraciones?",
+        "A": "for",
+        "B": "while",
+        "C": "do-while",
+        "D": "map",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué valor tiene una lista vacía en un if?",
+        "A": "True",
+        "B": "Error",
+        "C": "False",
+        "D": "None",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué tipo de error lanza range('10')?",
+        "A": "SyntaxError",
+        "B": "TypeError",
+        "C": "ValueError",
+        "D": "NameError",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Cuál es el uso principal del operador ':='?",
+        "A": "Comparar dos valores",
+        "B": "Asignar valores dentro de expresiones",
+        "C": "Crear bucles",
+        "D": "Reemplazar el if",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué sucede con variables *args en asignación?\na, *b = [1, 2, 3]",
+        "A": "a = 1, b = [2, 3]",
+        "B": "a = [1, 2], b = 3",
+        "C": "Error",
+        "D": "a = 1, b = 2",
+        "Respuesta Correcta": "A"
+    }
+]

@@ -1,0 +1,291 @@
+[
+
+    {
+        "Pregunta": "¿Qué es una excepción en Python?",
+        "A": "Un error de sintaxis",
+        "B": "Un tipo especial de comentario",
+        "C": "Una interrupción en el flujo normal del programa",
+        "D": "Una palabra reservada",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué palabra clave se usa para capturar una excepción?",
+        "A": "capture",
+        "B": "try",
+        "C": "except",
+        "D": "catch",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál es el bloque que se ejecuta siempre al final de try-except?",
+        "A": "finally",
+        "B": "after",
+        "C": "end",
+        "D": "else",
+        "Respuesta Correcta": "A"
+    },
+    {
+        "Pregunta": "¿Cuál de estas excepciones ocurre al dividir entre cero?",
+        "A": "ValueError",
+        "B": "ZeroDivisionError",
+        "C": "IndexError",
+        "D": "ArithmeticError",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué pasa si no se captura una excepción?",
+        "A": "Se ignora",
+        "B": "Se convierte en advertencia",
+        "C": "Detiene el programa",
+        "D": "Se convierte en None",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cómo se lanza manualmente una excepción?",
+        "A": "raise Excepcion",
+        "B": "throw Excepcion()",
+        "C": "exception.new()",
+        "D": "assert()",
+        "Respuesta Correcta": "A"
+    },
+    {
+        "Pregunta": "¿Qué tipo de error lanza int('abc')?",
+        "A": "TypeError",
+        "B": "ValueError",
+        "C": "NameError",
+        "D": "IndexError",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Cuál es la forma correcta de capturar cualquier excepción?",
+        "A": "except Exception:",
+        "B": "catch Exception:",
+        "C": "try Exception:",
+        "D": "if Exception:",
+        "Respuesta Correcta": "A"
+    },
+    {
+        "Pregunta": "¿Qué bloque se ejecuta si no se lanza ninguna excepción?",
+        "A": "except",
+        "B": "finally",
+        "C": "else",
+        "D": "try",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué hace el siguiente código?\ntry:\n    1/0\nexcept ZeroDivisionError:\n    print('Error')",
+        "A": "Imprime 1",
+        "B": "Error de sintaxis",
+        "C": "Imprime 'Error'",
+        "D": "No hace nada",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué clase se recomienda usar como base para definir una excepción propia?",
+        "A": "object",
+        "B": "BaseException",
+        "C": "Exception",
+        "D": "RuntimeError",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué significa una excepción no controlada?",
+        "A": "Una excepción personalizada",
+        "B": "Una excepción que no se ha capturado",
+        "C": "Una excepción sin mensaje",
+        "D": "Una advertencia",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué tipo de excepción ocurre al acceder a un índice inexistente?",
+        "A": "KeyError",
+        "B": "NameError",
+        "C": "IndexError",
+        "D": "ValueError",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál de estas excepciones es hija de Exception?",
+        "A": "SystemExit",
+        "B": "KeyboardInterrupt",
+        "C": "ZeroDivisionError",
+        "D": "GeneratorExit",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué estructura se usa para manejar múltiples excepciones?",
+        "A": "try-except",
+        "B": "try-catch-finally",
+        "C": "try-except-else-finally",
+        "D": "try-catch-raise",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué hace `assert` en Python?",
+        "A": "Evalúa una condición y lanza AssertionError si es falsa",
+        "B": "Captura excepciones",
+        "C": "Evita errores de tipo",
+        "D": "Genera excepciones personalizadas",
+        "Respuesta Correcta": "A"
+    },
+    {
+        "Pregunta": "¿Qué error lanza len(None)?",
+        "A": "ValueError",
+        "B": "TypeError",
+        "C": "AttributeError",
+        "D": "KeyError",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Para qué sirve el bloque finally?",
+        "A": "Para ejecutar código solo si hay error",
+        "B": "Para ejecutar siempre, haya o no excepción",
+        "C": "Para capturar errores críticos",
+        "D": "Para evitar bucles infinitos",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué ocurre si lanzas una excepción sin capturarla?",
+        "A": "Se lanza una advertencia",
+        "B": "El programa continúa",
+        "C": "El programa finaliza",
+        "D": "Se convierte en None",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué clase agrupa la mayoría de excepciones en Python?",
+        "A": "BaseError",
+        "B": "BaseException",
+        "C": "Exception",
+        "D": "RuntimeError",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué clase base deberías extender para crear una excepción personalizada?",
+        "A": "Error",
+        "B": "BaseException",
+        "C": "Exception",
+        "D": "RuntimeError",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué error lanza `open('inexistente.txt')`?",
+        "A": "NameError",
+        "B": "IOError o FileNotFoundError",
+        "C": "IndexError",
+        "D": "AttributeError",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué hace `try: x = 1 / 0 except: pass`?",
+        "A": "Lanza error",
+        "B": "Ignora la excepción",
+        "C": "Divide por cero",
+        "D": "Imprime error",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Cuál es el propósito del bloque else en try-except?",
+        "A": "Se ejecuta si hay excepción",
+        "B": "Se ejecuta si no hay excepción",
+        "C": "Se ejecuta si hay finally",
+        "D": "No tiene uso",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué ocurre con esta instrucción? `raise ValueError('Error personalizado')`",
+        "A": "Captura un error",
+        "B": "Ignora el error",
+        "C": "Lanza un ValueError",
+        "D": "No hace nada",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué pasa si haces raise sin argumento en un bloque except?",
+        "A": "Relanza la excepción anterior",
+        "B": "Ignora la excepción",
+        "C": "Cierra el programa",
+        "D": "Lanza error de sintaxis",
+        "Respuesta Correcta": "A"
+    },
+    {
+        "Pregunta": "¿Qué instrucción usarías para relanzar una excepción capturada?",
+        "A": "throw",
+        "B": "raise",
+        "C": "retry",
+        "D": "catch",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué función cumple `pass` en un bloque except?",
+        "A": "Ignora la excepción",
+        "B": "Detiene el programa",
+        "C": "Relanza error",
+        "D": "Registra error",
+        "Respuesta Correcta": "A"
+    },
+    {
+        "Pregunta": "¿Qué instrucción es útil para depurar errores?",
+        "A": "print",
+        "B": "traceback",
+        "C": "raise",
+        "D": "breakpoint",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué error lanza `{}['clave']` si no existe 'clave'?",
+        "A": "IndexError",
+        "B": "KeyError",
+        "C": "AttributeError",
+        "D": "TypeError",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Se puede usar múltiples bloques except para un solo try?",
+        "A": "No",
+        "B": "Solo con elif",
+        "C": "Sí",
+        "D": "Depende del error",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué ocurre con una excepción dentro de finally?",
+        "A": "Se ignora",
+        "B": "Se lanza después de finally",
+        "C": "Sobrescribe otras excepciones",
+        "D": "Se convierte en advertencia",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Cuál es el comportamiento de KeyboardInterrupt?",
+        "A": "Finaliza la ejecución por el usuario",
+        "B": "Error de teclado",
+        "C": "Error al leer teclado",
+        "D": "Error de ejecución",
+        "Respuesta Correcta": "A"
+    },
+    {
+        "Pregunta": "¿Qué hace el siguiente código?\ntry:\n    raise ValueError\nexcept:\n    raise",
+        "A": "Captura error",
+        "B": "Ignora error",
+        "C": "Relanza error",
+        "D": "Nada",
+        "Respuesta Correcta": "C"
+    },
+    {
+        "Pregunta": "¿Qué significa capturar múltiples excepciones?",
+        "A": "try except except except",
+        "B": "except (ValueError, TypeError):",
+        "C": "try elif except:",
+        "D": "try except or except:",
+        "Respuesta Correcta": "B"
+    },
+    {
+        "Pregunta": "¿Qué pasa si un bloque finally lanza un error?",
+        "A": "Se detiene la ejecución",
+        "B": "Ignora la excepción del try",
+        "C": "Finaliza el programa",
+        "D": "Ambas excepciones pueden registrarse",
+        "Respuesta Correcta": "D"
+    }
+]
